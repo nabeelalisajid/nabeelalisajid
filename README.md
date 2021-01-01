@@ -1,11 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nabeel Ali Sajid</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">A Software Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabeelalisajid&label=Profile%20views&color=0e75b6&style=flat" alt="nabeelalisajid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabeelalisajid" alt="nabeelalisajid" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nabeelalisajid" target="blank"><img src="https://img.shields.io/twitter/follow/nabeelalisajid?logo=twitter&style=for-the-badge" alt="nabeelalisajid" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [nabeelalisajid.me](nabeelalisajid.me)
 
