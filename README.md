@@ -61,23 +61,30 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabeelalisajid&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelalisajid&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelalisajid&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nabeelalisajid&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🎮 Fun & Games
+
+**🐍 Watch the snake devour my contributions:**
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabeelalisajid/nabeelalisajid/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabeelalisajid/nabeelalisajid/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nabeelalisajid/nabeelalisajid/output/github-snake.svg" />
+  </picture>
+</div>
+
+**🎲 Random dev joke of the moment:**
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
 </div>
 
 ---
