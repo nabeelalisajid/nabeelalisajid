@@ -4,7 +4,7 @@
 
 ### Senior Software Engineer · AI, Cloud & Scalable Systems · Dubai, UAE 🇦🇪
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=I+turn+complex+business+problems+into+software+that+scales.;9%2B+years+across+Fintech%2C+E-commerce+%26+IoT.;AI+that+ships+%E2%80%94+not+just+demos." alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=I+turn+complex+business+problems+into+Software+that+scales.;9%2B+years+across+Fintech%2C+E-commerce+%26+IoT.;AI+that+ships+%E2%80%94+not+just+demos." alt="tagline" />
 
 <a href="https://nabeelalisajid.dev"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://linkedin.com/in/nabeelalisajid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
