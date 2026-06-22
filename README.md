@@ -26,25 +26,6 @@
 
 🔎 **Make your data actually useful.** Real-time analytics dashboards, ETL pipelines, and search/recommendations that surface the right answer — so decisions get made on signal, not guesswork.
 
-✅ **Release with confidence.** Automated test frameworks (TDD & E2E) that slash regression cycles and catch problems before your customers ever see them.
-
----
-
-## 🧰 How I do it
-
-| | |
-|---|---|
-| **AI & LLM Engineering** | RAG · AI Agents · LangChain · Claude & OpenAI APIs · Vector DBs (Pinecone, pgvector) · Prompt Engineering |
-| **Backend & Architecture** | Node.js · NestJS · Express · Python · GraphQL · Microservices · Event-driven (Kafka, Pub/Sub) |
-| **Cloud & DevOps** | AWS · GCP · Docker · Kubernetes · Serverless (Lambda, Cloud Functions) · CI/CD |
-| **Data & Search** | PostgreSQL · MongoDB · Redis · Elasticsearch / OpenSearch · BigQuery · ETL |
-| **Frontend** | React · Next.js · Vue.js · TypeScript |
-| **Quality** | Jest · Playwright · Cypress · Cucumber · TDD · E2E |
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,ts,react,nextjs,vue,graphql,aws,gcp,docker,kubernetes,postgres,mongodb,redis,elasticsearch&theme=light&perline=8" alt="tech stack" />
-</div>
-
 ---
 
 ## 🚀 Selected impact
